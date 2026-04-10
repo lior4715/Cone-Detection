@@ -1,2 +1,14 @@
-# Ignore all PyTorch model files
+# PyTorch model files
 *.pt
+
+# YOLO label caches
+*.cache
+
+# Training runs (weights, logs, etc.)
+runs/
+
+# Inference output
+predict/
+
+# Python
+__pycache__/
