@@ -19,8 +19,7 @@ Operating System: Windows 11
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/lior4715/BGRacing.git
-   cd BGRacing
+   git clone https://github.com/lior4715/Cone-Detection
    ```
    
 2. Install required dependencies:

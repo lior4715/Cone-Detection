@@ -1,5 +1,6 @@
-train: datasets/train/images
-val: datasets/valid/images
+path: C:/Users/LENOVO/Desktop/Cone Detection/Cone-Detection/datasets
+train: train/images
+val: valid/images
 
 nc: 4
 names: ['blue_cone', 'large_orange_cone', 'orange_cone', 'yellow_cone']
